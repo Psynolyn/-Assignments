@@ -1,2 +1,1 @@
-# -Assignments
-PLP Assignments
+# Python calculator assignment
